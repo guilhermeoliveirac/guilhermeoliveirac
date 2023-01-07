@@ -15,7 +15,7 @@
     <img align='center' alt"Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-### Servers que já usei
+### Servidores que já usei
 <div style="display: inline_block"><br/>
     <img align='center' alt"Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img align='center' alt"AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -23,7 +23,7 @@
 </div>
 
 
-### DB que trabalho no meu dia a dia
+### Banco de dados que trabalho no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img align='center' alt"Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -36,7 +36,7 @@
 [![portfolio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sites.google.com/view/guilherme-o-carvalho/página-inicial)
 
 
-### System (linux/windows/mac)
+### Sistemas que trabalhei
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
